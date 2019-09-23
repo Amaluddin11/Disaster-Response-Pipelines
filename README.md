@@ -1,8 +1,11 @@
 # Disaster-Response-Pipelines
 Disaster Response Pipelines
 
-Best Stock Market Indicators for Day Traders   
-Is it possible to predict tomorrow's price up or down?
+This is part of Udacity's Data Scientist Nanodegree program. In this project, disaster data from Figure Eight has been analyzed to build a model for an API that classifies disaster messages.
+
+In the data folder, you'll find a data set containing real messages that were sent during disaster events. Machine learning pipeline has been created to categorize these events so that the messages can be sent to an appropriate disaster relief agency.
+
+This project includes a web app where an emergency worker can input a new message and get classification results in several categories. The web app will also display visualizations of the data.
 
 ### Table of Contents
 
