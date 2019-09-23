@@ -63,5 +63,5 @@ Instructions:
 
 [Udacity](https://www.udacity.com/) for excellent learning experience!
 
-![Web Deployment](snapshot.jpg)
+![Web Deployment](snapshot.jpg?raw=true "Optional Title")
 
