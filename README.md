@@ -1,4 +1,13 @@
 # Disaster-Response-Pipelines
+
+### Table of Contents
+
+1. [Description](#Description)
+2. [Installation/Instructions](#installation)
+3. [File Descriptions](#files)
+4. [Acknowledgements](#Acknowledgements)
+
+## Description
 Disaster Response Pipelines
 
 This is part of Udacity's Data Scientist Nanodegree program. In this project, disaster data from [Figure Eight](https://www.figure-eight.com/) has been analyzed to build a model for an API that classifies disaster messages.
@@ -6,13 +15,6 @@ This is part of Udacity's Data Scientist Nanodegree program. In this project, di
 In the data folder, you'll find a data set containing real messages that were sent during disaster events. Machine learning pipeline has been created to categorize these events so that the messages can be sent to an appropriate disaster relief agency.
 
 This project includes a web app where an emergency worker can input a new message and get classification results in several categories. The web app will also display visualizations of the data.
-
-### Table of Contents
-
-1. [Installation/Instructions](#installation)
-2. [File Descriptions](#files)
-3. [Results](#results)
-4. [Acknowledgements](#Acknowledgements)
 
 ## Installation/Instructions <a name="installation"></a>
 
@@ -35,10 +37,6 @@ Instructions:
 ## File Descriptions <a name="files"></a>
 
 The notebook showing step by step from data cleaning to the three models is available here.
-
-## Results<a name="results"></a>
-
-The main findings of the code can be found at the post available [here](https://medium.com/@amaluddin11/best-indicators-for-day-traders-e029d526f336).
 
 ## Acknowledgements<a name="Acknowledgements"></a>
 
