@@ -28,12 +28,16 @@ process_data.py - to load raw messages, clean the messages and save the messages
 
 testing.db - a saved cleaned dataset.
 
+ETL Pipeline Preparation.ipynb - notebook file in preparation for process_data.py (html is also provided).
+
 
 Folder: models
 
 train_classifier.py - to load cleaned data, build ML model, train and test the model, and save the model for web application.
 
 haha.pkl - a saved model for web application.
+
+ML Pipeline Preparation.ipynb - notebook file in preparation for train_classifier.py (html is also provided).
 
 ## Installation/Instructions <a name="installation"></a>
 
