@@ -43,6 +43,7 @@ The main findings of the code can be found at the post available [here](https://
 ## Acknowledgements<a name="Acknowledgements"></a>
 
 [Figure Eight](https://www.figure-eight.com/) for providing real messages sent during disaster events.
+
 [Udacity](https://www.udacity.com/) for excellent learning experience!
 
 
