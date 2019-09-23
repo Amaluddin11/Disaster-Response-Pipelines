@@ -19,13 +19,20 @@ This project includes a web app where an emergency worker can input a new messag
 ## File Descriptions <a name="files"></a>
 
 Folder: data
+
 disaster_messages.csv - real messages sent during disaster events provided by Figure Eight.
+
 disaster_categories.csv - the categories of the messages.
+
 process_data.py - to load raw messages, clean the messages and save the messages as inputs for Machine Learning model.
+
 testing.db - a saved cleaned dataset.
 
+
 Folder: models
+
 train_classifier.py - to load cleaned data, build ML model, train and test the model, and save the model for web application.
+
 haha.pkl - a saved model for web application.
 
 ## Installation/Instructions <a name="installation"></a>
