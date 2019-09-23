@@ -18,7 +18,11 @@ This project includes a web app where an emergency worker can input a new messag
 
 ## File Descriptions <a name="files"></a>
 
-Folder: data
+### Folder: app
+
+run.py - file to start the web application with files in the templates folder (go.html and master.html)
+
+### Folder: data
 
 disaster_messages.csv - real messages sent during disaster events provided by Figure Eight.
 
@@ -32,7 +36,7 @@ ETL Pipeline Preparation.ipynb - notebook file in preparation for process_data.p
 
 
 
-Folder: models
+### Folder: models
 
 train_classifier.py - to load cleaned data, build ML model, train and test the model, and save the model for web application.
 
