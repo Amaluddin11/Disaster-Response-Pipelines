@@ -1,7 +1,7 @@
 # Disaster-Response-Pipelines
 Disaster Response Pipelines
 
-This is part of Udacity's Data Scientist Nanodegree program. In this project, disaster data from Figure Eight has been analyzed to build a model for an API that classifies disaster messages.
+This is part of Udacity's Data Scientist Nanodegree program. In this project, disaster data from [Figure Eight](https://www.figure-eight.com/) has been analyzed to build a model for an API that classifies disaster messages.
 
 In the data folder, you'll find a data set containing real messages that were sent during disaster events. Machine learning pipeline has been created to categorize these events so that the messages can be sent to an appropriate disaster relief agency.
 
