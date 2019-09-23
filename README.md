@@ -3,8 +3,8 @@
 ### Table of Contents
 
 1. [Description](#Description)
-2. [Installation/Instructions](#installation)
-3. [File Descriptions](#files)
+2. [File Descriptions](#files)
+3. [Installation/Instructions](#installation)
 4. [Acknowledgements](#Acknowledgements)
 
 ## Description
@@ -15,6 +15,18 @@ This is part of Udacity's Data Scientist Nanodegree program. In this project, di
 In the data folder, you'll find a data set containing real messages that were sent during disaster events. Machine learning pipeline has been created to categorize these events so that the messages can be sent to an appropriate disaster relief agency.
 
 This project includes a web app where an emergency worker can input a new message and get classification results in several categories. The web app will also display visualizations of the data.
+
+## File Descriptions <a name="files"></a>
+
+Folder: data
+disaster_messages.csv - real messages sent during disaster events provided by Figure Eight.
+disaster_categories.csv - the categories of the messages.
+process_data.py - to load raw messages, clean the messages and save the messages as inputs for Machine Learning model.
+testing.db - a saved cleaned dataset.
+
+Folder: models
+train_classifier.py - to load cleaned data, build ML model, train and test the model, and save the model for web application.
+haha.pkl - a saved model for web application.
 
 ## Installation/Instructions <a name="installation"></a>
 
@@ -32,11 +44,6 @@ Instructions:
     `python run.py`
 
 3. Go to http://0.0.0.0:3001/
-
-
-## File Descriptions <a name="files"></a>
-
-The notebook showing step by step from data cleaning to the three models is available here.
 
 ## Acknowledgements<a name="Acknowledgements"></a>
 
