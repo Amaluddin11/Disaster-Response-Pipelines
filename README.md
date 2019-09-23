@@ -10,10 +10,9 @@ This project includes a web app where an emergency worker can input a new messag
 ### Table of Contents
 
 1. [Installation/Instructions](#installation)
-2. [Project Motivation](#motivation)
-3. [File Descriptions](#files)
-4. [Results](#results)
-5. [Licensing, Authors, and Acknowledgements](#licensing)
+2. [File Descriptions](#files)
+3. [Results](#results)
+4. [Acknowledgements](#Acknowledgements)
 
 ## Installation/Instructions <a name="installation"></a>
 
@@ -32,14 +31,6 @@ Instructions:
 
 3. Go to http://0.0.0.0:3001/
 
-## Project Motivation<a name="motivation"></a>
-
-In this project, I was originally interestested in identifying the best technical indicators to predict stock price movement, either up or down using pre-calculated technical indicator based on historical stock data. In the attempts to achieve this, I have realized that the accuracy obtained is not as high as I had hoped for. Therefore, this project then aims to
-
-1. Compare the accuracy of prediction using SVW, SVM with PCA, and Neural Networks.
-2. What are the most weighted indicators in the top PCA components?
-3. Based on this data, can we visualize the data to see if we can really separate the two classes, price up or down?
-
 
 ## File Descriptions <a name="files"></a>
 
@@ -49,8 +40,9 @@ The notebook showing step by step from data cleaning to the three models is avai
 
 The main findings of the code can be found at the post available [here](https://medium.com/@amaluddin11/best-indicators-for-day-traders-e029d526f336).
 
-## Licensing, Authors, Acknowledgements<a name="licensing"></a>
+## Acknowledgements<a name="Acknowledgements"></a>
 
-The Copyright and License information for the data can be referred at [Elsevier Data in Brief](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5219605/) where the data was originally published. Otherwise, feel free to use the code here as you would like!
+[Figure Eight](https://www.figure-eight.com/) for providing real messages sent during disaster events.
+[Udacity](https://www.udacity.com/) for excellent learning experience!
 
 
